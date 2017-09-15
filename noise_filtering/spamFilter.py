@@ -1,6 +1,3 @@
-# Reference: https://opendatascience.com/blog/spam-detection-in-9-lines-of-code/
-
-
 import pandas
 import sklearn, sklearn.feature_extraction, sklearn.svm
 
